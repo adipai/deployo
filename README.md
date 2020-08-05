@@ -1,2 +1,2 @@
 # deployo
-A simple framework for azure queue storage bases asynchronous processing of requests to a deployed ML model
+A simple framework for azure queue storage based asynchronous processing of requests to a deployed ML model
